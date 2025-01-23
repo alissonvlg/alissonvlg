@@ -5,18 +5,11 @@
 ▶️ Student Alura 👨🏾‍💻
 ▶️ Email: alissonsonvgmail.com 📩
 -->
+
 ## I am learning
 <div></div>
 
-            <i class="devicon-github-original-wordmark colored"></i>
-          
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
-          
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-          
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-plain-wordmark.svg" />
-          
-            <i class="devicon-canva-original"></i>
+           <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
 ## Contact
 <div>
