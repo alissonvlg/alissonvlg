@@ -1,7 +1,9 @@
 ## Hi there, I'm Alisson Vaz 👋🏾
 
 ▶️ Mineiro, Udia 🔺
+
 ▶️ Student Alura 👨🏾‍💻
+
 ▶️ Email: alissonsonvgmail.com 📩
 
 ## I am learning
